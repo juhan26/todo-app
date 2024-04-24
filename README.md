@@ -1,4 +1,3 @@
-<img width="1440" alt="Screenshot 2024-04-24 at 13 11 49" src="https://github.com/juhan26/todo-app/assets/114799478/6a8d5461-5dca-4f1e-bb65-cedfe4972d45"># Simple Todo List Web App with Tailwind CSS and JavaScript
 
 This repository contains a simple and elegant Todo List web app built using Tailwind CSS and JavaScript. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
 
